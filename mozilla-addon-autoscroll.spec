@@ -13,9 +13,9 @@ Source1:	http://lednerg.home.comcast.net/%{_realname}_icons.zip
 Source2:	%{_realname}-installed-chrome.txt
 URL:		http://home.jesus.ox.ac.uk/~ecatmur/projects/mozilla/
 BuildRequires:	unzip
-Requires(post,postun):	mozilla >= 1.7.3-3
+Requires(post,postun):	mozilla >= 5:1.7.3-3
 Requires(post,postun):	textutils
-Requires:	mozilla >= 1.0-7
+Requires:	mozilla >= 2:1.0-7
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
