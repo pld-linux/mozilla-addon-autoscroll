@@ -1,7 +1,7 @@
 Summary:	Automatic scrolling functionality
 Summary(pl):	Automatyczne przewijanie
-Name:		mozilla-addon-autoscroll
 %define		_realname	autoscroll
+Name:		mozilla-addon-%{_realname}
 Version:	1.0
 Release:	2
 License:	MPL 1.1/GPL 2.0/LGPL 2.1
