@@ -3,7 +3,7 @@ Summary(pl):	Automatyczne przewijanie
 Name:		mozilla-addon-autoscroll
 %define		_realname	autoscroll
 Version:	1.0
-Release:	1
+Release:	2
 License:	MPL 1.1/GPL 2.0/LGPL 2.1
 Group:		X11/Applications/Networking
 Source0:	http://home.jesus.ox.ac.uk/~ecatmur/projects/mozilla/%{_realname}.xpi
@@ -18,7 +18,7 @@ Requires:	mozilla >= 1.0-7
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{_realname}-%{version}-root-%(id -u -n)
 
-%define		_chromedir	%{_libdir}/mozilla/chrome
+%define		_chromedir	%{_datadir}/mozilla/chrome
 
 %description
 AutoScroll is an addon for Mozilla and Phoenix and possibly other
