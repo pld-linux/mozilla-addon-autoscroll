@@ -29,7 +29,7 @@ button) you can then move the mouse up and down to have the page
 scroll by you without further mouse movements.
 
 %description -l pl
-AutoScroll jest dodatkiem do Mozilli i Phoeniksa oraz prawdopowobnie
+AutoScroll jest dodatkiem do Mozilli i Phoeniksa oraz prawdopodobnie
 innych przegl±darek obs³uguj±cych pakiety XPI, który emuluje
 funkcjonalno¶æ autoprzewijania znan± z Internet Explorera. Klikniêcie
 ¶rodkowym przyciskiem myszy na stronie (zazwyczaj przez naci¶niêcie
