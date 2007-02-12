@@ -1,5 +1,5 @@
 Summary:	Automatic scrolling functionality
-Summary(pl):	Automatyczne przewijanie
+Summary(pl.UTF-8):   Automatyczne przewijanie
 %define		_realname	autoscroll
 Name:		mozilla-addon-%{_realname}
 Version:	1.0
@@ -29,13 +29,13 @@ when you middle click on a page (typically by clicking a mouse wheel
 button) you can then move the mouse up and down to have the page
 scroll by you without further mouse movements.
 
-%description -l pl
+%description -l pl.UTF-8
 AutoScroll jest dodatkiem do Mozilli i Phoeniksa oraz prawdopodobnie
-innych przegl±darek obs³uguj±cych pakiety XPI, który emuluje
-funkcjonalno¶æ autoprzewijania znan± z Internet Explorera. Klikniêcie
-¶rodkowym przyciskiem myszy na stronie (zazwyczaj przez naci¶niêcie
-rolki) i ruch myszy w którym¶ kierunku powoduje przewijanie strony bez
-konieczno¶ci wykonywania kolejnych ruchów mysz±.
+innych przeglÄ…darek obsÅ‚ugujÄ…cych pakiety XPI, ktÃ³ry emuluje
+funkcjonalnoÅ›Ä‡ autoprzewijania znanÄ… z Internet Explorera. KlikniÄ™cie
+Å›rodkowym przyciskiem myszy na stronie (zazwyczaj przez naciÅ›niÄ™cie
+rolki) i ruch myszy w ktÃ³rymÅ› kierunku powoduje przewijanie strony bez
+koniecznoÅ›ci wykonywania kolejnych ruchÃ³w myszÄ….
 
 %prep
 
