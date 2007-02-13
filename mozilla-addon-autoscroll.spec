@@ -1,5 +1,5 @@
 Summary:	Automatic scrolling functionality
-Summary(pl.UTF-8):   Automatyczne przewijanie
+Summary(pl.UTF-8):	Automatyczne przewijanie
 %define		_realname	autoscroll
 Name:		mozilla-addon-%{_realname}
 Version:	1.0
